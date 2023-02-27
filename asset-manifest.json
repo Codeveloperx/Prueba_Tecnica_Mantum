@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Prueba_Tecnica_Mantum/static/css/main.77eb705d.css",
-    "main.js": "/Prueba_Tecnica_Mantum/static/js/main.d9f3da7b.js",
+    "main.js": "/Prueba_Tecnica_Mantum/static/js/main.5736bc68.js",
     "index.html": "/Prueba_Tecnica_Mantum/index.html",
     "main.77eb705d.css.map": "/Prueba_Tecnica_Mantum/static/css/main.77eb705d.css.map",
-    "main.d9f3da7b.js.map": "/Prueba_Tecnica_Mantum/static/js/main.d9f3da7b.js.map"
+    "main.5736bc68.js.map": "/Prueba_Tecnica_Mantum/static/js/main.5736bc68.js.map"
   },
   "entrypoints": [
     "static/css/main.77eb705d.css",
-    "static/js/main.d9f3da7b.js"
+    "static/js/main.5736bc68.js"
   ]
 }
